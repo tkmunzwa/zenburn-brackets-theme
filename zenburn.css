@@ -176,6 +176,7 @@
 .cm-s-zenburn span.cm-rainbow.cm-bracket.cm-bracket12 {
   color: #a0a090;
 }
+.cm-s-zenburn .CodeMirror-cursor { border-left: 1px solid #ffffff !important; }
 /*
   Active line. Can't make it work for now
 */
