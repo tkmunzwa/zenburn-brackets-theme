@@ -1,6 +1,8 @@
-[Light Table](http://www.lighttable.com) theme based on [Emacs Zenburn theme](https://github.com/bbatsov/zenburn-emacs).
+ [Brackets](http://www.brackets.io) theme theme based on the [Light Table Zenburn theme](http://github.com/wisenomad/zenburn-lighttable-theme).
+ 
+ Still needs to be cleaned up by removing unneeded LightTable classes. It mostly works as both LightTable and Brackets.io are based on CodeMirror.
 
-It my be a bit different from [original one for Vim](http://slinky.imukuppi.org/zenburnpage/). I just wanted to have the same _Zenburn_ theme that I have in _Emacs_. Anyways because _LightTable_ uses _CodeMirror_ and _CodeMirror_'s syntax highlight is different from the _Emacs_'s one the colors aren't exactly the same either. But generally I'm satisfied with the result for now. 
+The examples below are from the LightTable theme
 
 Copyright (c) 2014 by Alexander Zubko. [The MIT License (MIT)](LICENSE)
 
